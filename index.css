@@ -1,0 +1,21 @@
+section {
+  width: 100%;
+
+}
+
+section#navbar {
+  background-color: #c9daf8;
+  height: 20%;
+}
+
+section#search {
+  background-color: #d9d9d950;
+}
+
+section#jumbotron {
+  background-color: #EDEDE3;
+}
+
+section#trending {
+  background-color: #93c47dff;
+}
