@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+
 section {
   width: 100%;
 
@@ -5,7 +11,7 @@ section {
 
 section#navbar {
   background-color: #c9daf8;
-  height: 20vh;
+  height: 15vh;
 }
 
 section#search {
@@ -15,7 +21,7 @@ section#search {
 
 section#jumbotron {
   background-color: #EDEDE3;
-  height: 20vh;
+  height: 60vh;
 }
 
 section#trending {
