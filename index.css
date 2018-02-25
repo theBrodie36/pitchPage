@@ -5,17 +5,20 @@ section {
 
 section#navbar {
   background-color: #c9daf8;
-  height: 20%;
+  height: 20vh;
 }
 
 section#search {
-  background-color: #d9d9d950;
+  background-color: #ffffff;
+  height: 20vh;
 }
 
 section#jumbotron {
   background-color: #EDEDE3;
+  height: 20vh;
 }
 
 section#trending {
   background-color: #93c47dff;
+  height: 20vh;
 }
